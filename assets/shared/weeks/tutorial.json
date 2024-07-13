@@ -1,20 +1,20 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		["Gambling", "dude-icon", [165, 165, 165]]
 	],
 
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "",
 
 	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
+	"weekBefore": "",
+	"weekName": "Gambler",
 	"startUnlocked": true,
-
-	"hideStoryMode": false,
+	"difficulties": "Normal",
+	"hideStoryMode": true,
 	"hideFreeplay": false
 }
